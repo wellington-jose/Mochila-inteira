@@ -30,7 +30,7 @@ int knapsack(int W, int wt[], int b[], int n)
 		}
 	}
 
-	// retorna o valor máximo colocado na mochila
+	// retorna o valor máximo colocado na mochilaa
 	return V[n][W];
 }
 
